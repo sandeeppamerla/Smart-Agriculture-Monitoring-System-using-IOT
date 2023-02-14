@@ -1,1 +1,10 @@
-# Smart-Agriculture-System-using-IOT
+# Smart-Agriculture-Monitoring-System-using-IOT
+
+IoT is the major transformation in the agricultural industry and encourages farmers to alter major challenges they face in yielding.Livestock monitoring, conservation monitoring and plant & soil monitoring are the challenges where IoT is often an answer. The innovative IoT applications address the problems in agriculture and increase the standard, quantity, sustainability and value effectiveness of agricultural production. Today’s large and native farms can leverage IoT to remotely monitor sensors which will detect soil moisture, crop growth and detect pests and control their smart connected harvesters and irrigation equipments.The general approach used for a human-controlled conventional irrigation system consists of two main processes. Firstly, agronomists create a weekly or monthly irrigation plan by evaluating the data that they get from the plant’s environment. Secondly, they transfer this plan into the system via a user interface, and every week or month, they follow this procedure for every single plant they have in the environment. The main difference between its smart and autonomous counterparts is that the smart system can self-learn the environmental conditions which affect irrigation. Besides, it can define and schedule an irrigation plan by itself without any human intervention, resulting in increased efficiency.
+
+# Proposed System
+We must employ innovative harvest technologies and provide suggestions in order to increase the effectiveness of the product and so help the nation. Through a variety of strategic allocations, such as investments in precision and conservation, the Internet of Things (IoT) is assessing agricultural processes involving farmers in order to solve industry concerns. Improvements brought about by IoT in information-related economies including weather, temperature, soil moisture, and web-based harvesting. IoT enables farmers to communicate with his home from any location at any time. Conditions on the farm are tracked using a remote sensor framework.
+
+# BlockDiagram
+![image](https://user-images.githubusercontent.com/111385394/218823109-ebcdefba-09a0-4fce-842e-1ed4652e9069.png)
+
